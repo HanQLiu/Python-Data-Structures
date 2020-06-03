@@ -1,7 +1,8 @@
+### Implementation of queue using 2 stacks ###
 import unittest
 
 class QueueWith2Stacks:
-    """Implementation"""
+    """Implementation of queue using 2 stacks"""
     def __init__(self):
         self.in_stack = []
         self.out_stack = []
